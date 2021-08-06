@@ -24,9 +24,8 @@ Please describe the tests that you ran to verify your changes. Provide instructi
 
 **Test Configuration**:
 
-- Install X
-- Execute Y
-- Check that...
+- Install X, version Y
+- Execute Z
 
 ## Checklist:
 
